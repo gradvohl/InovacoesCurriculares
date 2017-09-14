@@ -16,5 +16,7 @@ Lista de Tópicos
 
 +++
 # Agora um slide na horizontal
+
 Exemplo de Imagem como background
----?image=Tabela1_Inovacoes.jpg
+
+---?image=Tabela1_Inovacoes.jpg&size=auto 50%
