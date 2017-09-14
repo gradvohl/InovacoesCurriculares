@@ -10,6 +10,8 @@ Lista de Tópicos
   * sub tópico 2
     * Subtotpico 2.1
 
+Note:
+  Aqui é um exemplo de nota para o apresentador.
 ---
 # Suponho que seja um novo slide
 ![Exemplo de imagem](Figura1_Inovacoes_2017.jpg)
