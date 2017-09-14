@@ -29,7 +29,7 @@ Exemplo de Imagem como background
 ### Mais um exemplo de lista, mas agora passo a passo
 
 Outra lista de tópicos
-* Topico 1 |
-* Tópico 2 |
-  * sub tópico 1
-  * sub tópico 2
+- Topico 1 |
+- Tópico 2 |
+  - sub tópico 1
+  - sub tópico 2
