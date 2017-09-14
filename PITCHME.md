@@ -17,6 +17,10 @@ Lista de Tópicos
 +++
 # Agora um slide na horizontal
 
+---?image=Tabela1_Inovacoes.jpg&size=auto 50%
+
 Exemplo de Imagem como background
 
----?image=Tabela1_Inovacoes.jpg&size=auto 50%
+---
+# Exemplo de link para web
+#### Veja a <a target="_blank" href="https://highpids.ft.unicamp.br/~gradvohl">Minha página no HighPIDS</a>
