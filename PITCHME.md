@@ -14,3 +14,7 @@ Lista de Tópicos
 # Suponho que seja um novo slide
 ![Exemplo de imagem](Figura1_Inovacoes_2017.jpg)
 
++++
+# Agora um slide na horizontal
+Exemplo de Imagem como background
+---?image=Tabela1_Inovacoes.jpg
