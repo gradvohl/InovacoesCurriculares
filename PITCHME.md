@@ -12,5 +12,5 @@ Lista de Tópicos
 
 ---
 # Suponho que seja um novo slide
-    ![Exemplo de imagem](Figura1_Inovacoes_2017.jpg)
+![Exemplo de imagem](Figura1_Inovacoes_2017.jpg)
 
