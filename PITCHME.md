@@ -7,7 +7,15 @@ gradvohl@ft.unicamp.br
 Note:
   Aqui é um exemplo de nota para o apresentador.
 ---
-# Suponho que seja um novo slide
+# Plano de apresentação
+
+* Introdução
+* Conceitos fundamentais
+* Metodologia utilizada
+* Resultados
+* Conclusões
+* Referências
+
 ![Exemplo de imagem](Figura1_Inovacoes_2017.jpg)
 
 +++
