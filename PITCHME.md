@@ -1,14 +1,9 @@
 ---
-# Teste de Apresentação
+# Estímulo para o engajamento de estudantes de graduação 
+# nas atividades das disciplinas através da gameficação
 
-Esse é um teste de apresentação.
-
-Lista de Tópicos
-* Tópico 1
-* Tópico 2
-  * sub tópico 1
-  * sub tópico 2
-    * Subtotpico 2.1
+## Prof. André Leon S. Gradvohl, Dr.
+### gradvohl@ft.unicamp.br
 
 Note:
   Aqui é um exemplo de nota para o apresentador.
