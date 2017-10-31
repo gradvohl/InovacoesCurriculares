@@ -1,9 +1,8 @@
 ---
-### Estímulo para o engajamento de estudantes de graduação 
-### nas atividades das disciplinas através da gameficação
+#### Estímulo para o engajamento de estudantes de graduação nas atividades das disciplinas através da gameficação
 
-#### Prof. André Leon S. Gradvohl, Dr.
-##### gradvohl@ft.unicamp.br
+##### Prof. André Leon S. Gradvohl, Dr.
+###### gradvohl@ft.unicamp.br
 
 Note:
   Aqui é um exemplo de nota para o apresentador.
